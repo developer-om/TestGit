@@ -1,4 +1,4 @@
 <?php 
 
 
-echo ' i m learnning new upload method';
+echo ' i m learnning new upload methodrerer';
